@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @illkkeerr
-- 👀 I’m interested in Asp.Net
+- 👀 I’m interested in Asp.Net and T-Sql
 - 🌱 I’m currently learning Full Stack .Net Developer
 - 🤝 I’m looking for help with find job
 - 📫 How to reach me  <a href="mailto:ilkersenel5797@gmailcom">ilkersenel5797@gmail.com</a>
